@@ -1,2 +1,2 @@
-# crowdfunding grp1
+# Crowdfunding Smart Contract Project
  
